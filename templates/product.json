@@ -15,12 +15,17 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "",
             "text_style": "uppercase"
           }
         },
         "title": {
           "type": "title",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
           "settings": {
           }
         },
@@ -56,11 +61,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -71,12 +71,12 @@
       "block_order": [
         "vendor",
         "title",
+        "description",
         "price",
         "variant_picker",
         "inventory_JXTDaT",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "share"
       ],
       "settings": {
