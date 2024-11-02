@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -12,11 +21,13 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -35,7 +46,8 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -46,11 +58,14 @@
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+          }
         },
         "share": {
           "type": "share",
-          "settings": { "share_label": "Share" }
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
@@ -71,7 +86,7 @@
         "constrain_to_viewport": true,
         "media_fit": "cover",
         "gallery_layout": "thumbnail_slider",
-        "media_position": "left",
+        "media_position": "right",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
@@ -115,10 +130,16 @@
         },
         "collection_TbJehQ": {
           "type": "collection",
-          "settings": { "collection": "" }
+          "settings": {
+            "collection": ""
+          }
         }
       },
-      "block_order": ["image_APEgJF", "image_99qdnw", "collection_TbJehQ"],
+      "block_order": [
+        "image_APEgJF",
+        "image_99qdnw",
+        "collection_TbJehQ"
+      ],
       "settings": {
         "heading": "Multimedia-Collage",
         "heading_size": "h1",
@@ -131,5 +152,9 @@
       }
     }
   },
-  "order": ["main", "related-products", "collage_azy4L9"]
+  "order": [
+    "main",
+    "related-products",
+    "collage_azy4L9"
+  ]
 }
