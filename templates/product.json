@@ -60,6 +60,13 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
+        },
+        "text_LeWFXi": {
+          "type": "text",
+          "settings": {
+            "text": "Textblock",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -70,7 +77,8 @@
         "variant_picker",
         "inventory_JXTDaT",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "text_LeWFXi"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -86,6 +94,48 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "rich_text_Ld3bQe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YPNtkU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mehr zu {{ product.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_dyixmG": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.fabric_in_detail | metafield_tag }}"
+          }
+        },
+        "button_YzVCaz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Schaltflächenbeschriftung",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YPNtkU",
+        "text_dyixmG",
+        "button_YzVCaz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -112,7 +162,6 @@
         "image_APEgJF": {
           "type": "image",
           "settings": {
-            "image": "{{ product.metafields.custom.test.value }}"
           }
         },
         "image_99qdnw": {
@@ -147,6 +196,7 @@
   },
   "order": [
     "main",
+    "rich_text_Ld3bQe",
     "related-products",
     "collage_azy4L9"
   ]
