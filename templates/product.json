@@ -60,13 +60,6 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
-        },
-        "text_LeWFXi": {
-          "type": "text",
-          "settings": {
-            "text": "Textblock",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
@@ -77,8 +70,7 @@
         "variant_picker",
         "inventory_JXTDaT",
         "quantity_selector",
-        "buy_buttons",
-        "text_LeWFXi"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -96,6 +88,69 @@
         "padding_bottom": 12
       }
     },
+    "multicolumn_qmcDLz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_htdhHX": {
+          "type": "column",
+          "settings": {
+            "title": "Material",
+            "text": "<p>100% Leinen</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PLAVKJ": {
+          "type": "column",
+          "settings": {
+            "title": "Schrumpfung",
+            "text": "<p>Max 4%</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_q7TLiR": {
+          "type": "column",
+          "settings": {
+            "title": "Garn",
+            "text": "<p>Rohleinen in Kombination mit OEKO-tex zertifiziertem Farbgarn</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PUGAzg": {
+          "type": "column",
+          "settings": {
+            "title": "Konfektionierung",
+            "text": "<p>Vorgewaschen und gedämpft</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_htdhHX",
+        "column_PLAVKJ",
+        "column_q7TLiR",
+        "column_PUGAzg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_Ld3bQe": {
       "type": "rich-text",
       "blocks": {
@@ -111,27 +166,15 @@
           "settings": {
             "text": "{{ product.metafields.custom.fabric_in_detail | metafield_tag }}"
           }
-        },
-        "button_YzVCaz": {
-          "type": "button",
-          "settings": {
-            "button_label": "Schaltflächenbeschriftung",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_YPNtkU",
-        "text_dyixmG",
-        "button_YzVCaz"
+        "text_dyixmG"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -140,6 +183,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -196,6 +240,7 @@
   },
   "order": [
     "main",
+    "multicolumn_qmcDLz",
     "rich_text_Ld3bQe",
     "related-products",
     "collage_azy4L9"
