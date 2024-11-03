@@ -240,7 +240,7 @@
                                 {{- 'icon-info.svg' | inline_asset_content -}}
                               </button>
                             {%- endif -%}
-                            {% assign meterOptions = '110 cm,150 cm' | split: ',' %}
+                            {% assign meterOptions = '110,150' | split: ',' %}
                             {% assign option2 = item.options_with_values[1].value | string %}
                             {% assign is_option_in_meterOptions = false %}
 

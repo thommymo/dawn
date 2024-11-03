@@ -1,4 +1,4 @@
-{% assign meterOptions = '110 cm,150 cm' | split: ',' %}
+{% assign meterOptions = '110,150' | split: ',' %}
 {% assign option2 = product.selected_or_first_available_variant.option2 | string %}
 {% assign is_option_in_meterOptions = false %}
 
@@ -279,7 +279,7 @@
                         data-min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
                         min="
                           {%- if is_option_in_meterOptions -%}
-                            10
+                            50
                           {%- else -%}
                             1
                           {%- endif -%}
@@ -297,7 +297,7 @@
                         "
                         value="
                           {%- if is_option_in_meterOptions -%}
-                            10
+                            50
                           {%- else -%}
                             1
                           {%- endif -%}

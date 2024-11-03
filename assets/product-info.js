@@ -323,8 +323,8 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
-        if (['110 cm', '150 cm'].includes(selection?.option2) || !selection) {
-          min = 10;
+        if (['110', '150'].includes(selection?.option2) || !selection) {
+          min = 50;
           step = 10;
         }
 
