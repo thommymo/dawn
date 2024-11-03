@@ -35,11 +35,9 @@
             block: block,
             picker_type: picker_type
           %}
-          <legend class="form__label">
-            <span data-selected-value>
-              {{- option.selected_value -}}
-            </span>
-          </legend>
+          <span data-selected-value>
+            {{- option.selected_value -}}
+          </span>
         </fieldset>
       {%- elsif picker_type == 'button' -%}
         <fieldset class="js product-form__input product-form__input--pill">
