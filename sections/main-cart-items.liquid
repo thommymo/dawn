@@ -251,7 +251,12 @@
                             {% endfor %}
                             <div>
                               {% if is_option_in_meterOptions %}
-                                Länge in cm
+                                Länge in cm (
+                                {{-
+                                  'products.product.inventory_in_stock_show_count'
+                                  | t: quantity: product.selected_or_first_available_variant.inventory_quantity
+                                -}}
+                                )
                               {% endif %}
                               <quantity-input class="quantity cart-quantity">
                                 <button class="quantity__button" name="minus" type="button">
