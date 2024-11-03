@@ -51,7 +51,7 @@
             {% endif %}
             <span data-selected-value>
               {{- option.selected_value -}}
-              {% if option.selected_value contains 'Muster' %} cm{% endif %}
+              {% if option.selected_value contains 'Muster' %}{% else %} cm{% endif %}
             </span>
           </legend>
           {% render 'product-variant-options',
