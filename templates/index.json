@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h0"
+            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Linen fabric, sourced and produced locally",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -63,7 +63,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Linen fabric, sourced and produced locally",
+            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
             "heading_size": "h1"
           }
         },
