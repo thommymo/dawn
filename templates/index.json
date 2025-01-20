@@ -161,6 +161,52 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_AGrjwf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rtQxqT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bild mit Text",
+            "heading_size": "h1"
+          }
+        },
+        "text_QCwggh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_NgDnfW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Schaltflächenbeschriftung",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rtQxqT",
+        "text_QCwggh",
+        "button_NgDnfW"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -202,6 +248,7 @@
     "featured_collection",
     "collage",
     "video",
+    "image_with_text_AGrjwf",
     "multicolumn"
   ]
 }
