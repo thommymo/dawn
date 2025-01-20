@@ -22,7 +22,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "biodegradable fabric, sourced and produced locally",
+            "text": "Linen fabric, sourced and produced locally",
             "text_style": "body"
           }
         },
@@ -63,7 +63,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "biodegradable fabric, sourced and produced locally",
             "heading_size": "h1"
           }
         },
