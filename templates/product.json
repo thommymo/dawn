@@ -193,26 +193,26 @@
         "image_APEgJF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/leavogel_jacke_01.jpg"
+            "image": "shopify://shop_images/unikko_04.jpg"
           }
         },
         "image_99qdnw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/unikko_04.jpg"
+            "image": "shopify://shop_images/leavogel_jacke_01.jpg"
           }
         },
-        "collection_TbJehQ": {
-          "type": "collection",
+        "image_eDGFJW": {
+          "type": "image",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/unikko_03.jpg"
           }
         }
       },
       "block_order": [
         "image_APEgJF",
         "image_99qdnw",
-        "collection_TbJehQ"
+        "image_eDGFJW"
       ],
       "settings": {
         "heading": "Produkte",
