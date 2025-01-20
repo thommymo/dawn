@@ -21,18 +21,15 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -43,8 +40,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -197,12 +193,13 @@
         "image_APEgJF": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/leavogel_jacke_01.jpg"
           }
         },
         "image_99qdnw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/D6_tabac_10x10_ddf467ee-7422-4082-89cb-cd25ea447f94.jpg"
+            "image": "shopify://shop_images/Kleid_leavogel.jpg"
           }
         },
         "collection_TbJehQ": {
@@ -218,7 +215,7 @@
         "collection_TbJehQ"
       ],
       "settings": {
-        "heading": "Multimedia-Collage",
+        "heading": "Produkte",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
