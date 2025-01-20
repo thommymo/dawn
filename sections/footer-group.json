@@ -29,6 +29,13 @@
             "menu": "footer"
           }
         },
+        "text_bCRwah": {
+          "type": "text",
+          "settings": {
+            "heading": "Adresse",
+            "subtext": "<p>neri</p><p>Atelier Stollberg</p><p>Stollbergstrasse 6</p><p>6003 Luzern</p>"
+          }
+        },
         "footer-2": {
           "type": "text",
           "disabled": true,
@@ -41,6 +48,7 @@
       "block_order": [
         "footer-0",
         "footer-1",
+        "text_bCRwah",
         "footer-2"
       ],
       "settings": {
