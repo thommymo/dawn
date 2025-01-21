@@ -23,6 +23,7 @@
         },
         "footer-1": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "",
             "menu": "footer"
@@ -32,7 +33,7 @@
           "type": "text",
           "settings": {
             "heading": "Adresse",
-            "subtext": "<p>neri</p><p>Atelier Stollberg</p><p>Stollbergstrasse 6</p><p>6003 Luzern</p>"
+            "subtext": "<p>neri - textil</p><p>Atelier Stollberg</p><p>Stollbergstrasse 6</p><p>6003 Luzern</p>"
           }
         },
         "footer-2": {
