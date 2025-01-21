@@ -115,6 +115,35 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_r8EHNM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_gyAN7T": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Bild-Banner",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gyAN7T"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Flach_Rushes_DZX1164.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -205,7 +234,6 @@
       "blocks": {
         "column_4xGFFH": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "Spalte",
             "text": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.</p>",
@@ -228,6 +256,7 @@
         "column_4xGFFH",
         "column1"
       ],
+      "disabled": true,
       "settings": {
         "title": "Kollaborationen",
         "heading_size": "h2",
@@ -250,6 +279,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
+    "image_banner_r8EHNM",
     "collage",
     "video",
     "image_with_text_AGrjwf",
