@@ -149,15 +149,21 @@
       "blocks": {
         "image_gzzGLm": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1702.jpg"
+          }
         },
         "image_MTkfdM": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1303.jpg"
+          }
         },
         "image_4tN83Q": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1725.jpg"
+          }
         }
       },
       "block_order": [
