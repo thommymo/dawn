@@ -223,11 +223,22 @@
             "button_link": "https://livianaef.ch/produkt-kategorie/kleid/page/2/"
           }
         },
+        "row_6c47fP": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Kissen_Decke01.jpg",
+            "caption": "Produktbeispiel",
+            "heading": "Privat",
+            "text": "<p>Kissenbezüge und Decke für den Wohnbereich.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
         "row_awmd4n": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Livia_Naef_top01.jpg",
-            "caption": "Bildtext",
+            "caption": "Kollaboration",
             "heading": "Livia Naef",
             "text": "<p>Ein weit geschnittenes zeitloses Top.</p>",
             "button_label": "Webseite",
@@ -244,26 +255,15 @@
             "button_label": "Webseite",
             "button_link": ""
           }
-        },
-        "row_6c47fP": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Kissen_Decke01.jpg",
-            "caption": "Produktbeispiel",
-            "heading": "Privat",
-            "text": "<p>Kissenbezüge und Decke für den Wohnbereich.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_TQrVpR",
         "row_NWjbJJ",
         "row_DdyBr4",
+        "row_6c47fP",
         "row_awmd4n",
-        "row_M4iTjU",
-        "row_6c47fP"
+        "row_M4iTjU"
       ],
       "settings": {
         "image_height": "adapt",
