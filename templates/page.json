@@ -72,24 +72,16 @@
             "image": "shopify://shop_images/flachsfeld.jpg"
           }
         },
-        "product_Ybix6L": {
-          "type": "product",
+        "image_RenNH6": {
+          "type": "image",
           "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection_yLFbbK": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Flach_Rushes_DZX1303.jpg"
           }
         }
       },
       "block_order": [
         "image_YJiPdV",
-        "product_Ybix6L",
-        "collection_yLFbbK"
+        "image_RenNH6"
       ],
       "settings": {
         "heading": "",
