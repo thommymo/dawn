@@ -193,26 +193,12 @@
         "image_APEgJF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/unikko_04.jpg"
-          }
-        },
-        "image_99qdnw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/leavogel_jacke_01.jpg"
-          }
-        },
-        "image_eDGFJW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/unikko_03.jpg"
+            "image": "{{ product.metafields.custom.product_images_2.value }}"
           }
         }
       },
       "block_order": [
-        "image_APEgJF",
-        "image_99qdnw",
-        "image_eDGFJW"
+        "image_APEgJF"
       ],
       "settings": {
         "heading": "Produkte",
@@ -224,6 +210,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "slideshow_JgfzMD": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_TP6FL3": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slideshow",
+            "heading_size": "h1",
+            "subheading": "Erzähle deine Geschichte mit Fotos",
+            "button_label": "Schaltflächenbeschriftung",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_G8iw6W": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slideshow",
+            "heading_size": "h1",
+            "subheading": "Erzähle deine Geschichte mit Fotos",
+            "button_label": "Schaltflächenbeschriftung",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_TP6FL3",
+        "slide_G8iw6W"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow zu deiner Marke"
+      }
     }
   },
   "order": [
@@ -231,6 +270,7 @@
     "multicolumn_qmcDLz",
     "rich_text_Ld3bQe",
     "related-products",
-    "collage_azy4L9"
+    "collage_azy4L9",
+    "slideshow_JgfzMD"
   ]
 }
