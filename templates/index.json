@@ -144,44 +144,6 @@
         "show_text_below": true
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "image_gzzGLm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1702.jpg"
-          }
-        },
-        "image_MTkfdM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1303.jpg"
-          }
-        },
-        "image_4tN83Q": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1725.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_gzzGLm",
-        "image_MTkfdM",
-        "image_4tN83Q"
-      ],
-      "settings": {
-        "heading": "Prozess",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -286,7 +248,6 @@
     "rich_text",
     "featured_collection",
     "image_banner_r8EHNM",
-    "collage",
     "video",
     "image_with_text_AGrjwf",
     "multicolumn"
