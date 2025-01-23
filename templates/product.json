@@ -247,6 +247,7 @@
         "slide_pFdbt6": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Livia_Naef_top01.jpg",
             "heading": "Slideshow",
             "heading_size": "h1",
             "subheading": "Erzähle deine Geschichte mit Fotos",
