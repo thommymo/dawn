@@ -187,36 +187,13 @@
         "padding_bottom": 28
       }
     },
-    "collage_azy4L9": {
-      "type": "collage",
-      "blocks": {
-        "image_APEgJF": {
-          "type": "image",
-          "settings": {
-            "image": "{{ product.metafields.custom.product_images_2.value }}"
-          }
-        }
-      },
-      "block_order": [
-        "image_APEgJF"
-      ],
-      "settings": {
-        "heading": "Produkte",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "slideshow_JgfzMD": {
       "type": "slideshow",
       "blocks": {
         "slide_TP6FL3": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/leavogel_jacke_01.jpg",
             "heading": "Slideshow",
             "heading_size": "h1",
             "subheading": "Erzähle deine Geschichte mit Fotos",
@@ -270,7 +247,6 @@
     "multicolumn_qmcDLz",
     "rich_text_Ld3bQe",
     "related-products",
-    "collage_azy4L9",
     "slideshow_JgfzMD"
   ]
 }
