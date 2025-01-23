@@ -33,7 +33,7 @@
           "type": "text",
           "settings": {
             "heading": "Adresse",
-            "subtext": "<p>neri - textil</p><p>Atelier Stollberg</p><p>Stollbergstrasse 6</p><p>6003 Luzern</p>"
+            "subtext": "<p>neri - textil<br/>Atelier Stollberg<br/>Stollbergstrasse 6<br/>6003 Luzern</p>"
           }
         },
         "footer-2": {
