@@ -210,26 +210,27 @@
       "blocks": {
         "image_ibm9wp": {
           "type": "image",
-          "settings": {}
-        },
-        "product_iRUJHL": {
-          "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "image": "shopify://shop_images/IMG_7520.jpg"
           }
         },
-        "collection_WYLeWA": {
-          "type": "collection",
+        "image_rCH9Af": {
+          "type": "image",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/IMG_7509.jpg"
+          }
+        },
+        "image_eWFFQh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7725.jpg"
           }
         }
       },
       "block_order": [
         "image_ibm9wp",
-        "product_iRUJHL",
-        "collection_WYLeWA"
+        "image_rCH9Af",
+        "image_eWFFQh"
       ],
       "settings": {
         "heading": "zum fertigen Stoff",
