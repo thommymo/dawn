@@ -91,6 +91,45 @@
         "image_D8eBXV"
       ],
       "settings": {
+        "heading": "Auf dem Feld",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_RRmDHb": {
+      "type": "collage",
+      "blocks": {
+        "image_NjPmiw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1817.jpg"
+          }
+        },
+        "product_AVALYt": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_fFe8Jt": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NjPmiw",
+        "product_AVALYt",
+        "collection_fFe8Jt"
+      ],
+      "settings": {
         "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
@@ -105,6 +144,7 @@
   "order": [
     "main",
     "image_with_text_3Aygth",
-    "collage_wVRRm6"
+    "collage_wVRRm6",
+    "collage_RRmDHb"
   ]
 }
