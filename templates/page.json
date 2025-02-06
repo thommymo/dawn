@@ -16,6 +16,54 @@
         "padding_bottom": 28
       }
     },
+    "image_banner_ANHeNf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jHziqj": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_iTtkUW": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_nCxepq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jHziqj",
+        "text_iTtkUW",
+        "buttons_nCxepq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Flach_Rushes_DZX1164.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_3Aygth": {
       "type": "image-with-text",
       "blocks": {
@@ -48,7 +96,7 @@
         "button_FqeRgg"
       ],
       "settings": {
-        "image": "shopify://shop_images/Flach_Rushes_DZX1164.jpg",
+        "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -69,7 +117,7 @@
         "image_YJiPdV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg"
+            "image": "shopify://shop_images/flachsfeld.jpg"
           }
         },
         "image_RenNH6": {
@@ -110,24 +158,14 @@
             "image": "shopify://shop_images/Flach_Rushes_DZX1817.jpg"
           }
         },
-        "product_AVALYt": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection_fFe8Jt": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
+        "image_XYywQz": {
+          "type": "image",
+          "settings": {}
         }
       },
       "block_order": [
         "image_NjPmiw",
-        "product_AVALYt",
-        "collection_fFe8Jt"
+        "image_XYywQz"
       ],
       "settings": {
         "heading": "",
@@ -143,6 +181,7 @@
   },
   "order": [
     "main",
+    "image_banner_ANHeNf",
     "image_with_text_3Aygth",
     "collage_wVRRm6",
     "collage_RRmDHb"
