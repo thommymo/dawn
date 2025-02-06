@@ -125,18 +125,11 @@
           "settings": {
             "image": "shopify://shop_images/Flach_Rushes_DZX1303.jpg"
           }
-        },
-        "image_D8eBXV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1702.jpg"
-          }
         }
       },
       "block_order": [
         "image_YJiPdV",
-        "image_RenNH6",
-        "image_D8eBXV"
+        "image_RenNH6"
       ],
       "settings": {
         "heading": "Auf dem Feld",
@@ -160,7 +153,9 @@
         },
         "image_XYywQz": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1702.jpg"
+          }
         }
       },
       "block_order": [
