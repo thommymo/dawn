@@ -126,8 +126,8 @@
         "button_FqeRgg": {
           "type": "button",
           "settings": {
-            "button_label": "Schaltflächenbeschriftung",
-            "button_link": "",
+            "button_label": "Swissflax",
+            "button_link": "https://swissflax.ch",
             "button_style_secondary": false
           }
         }
