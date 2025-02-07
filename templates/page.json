@@ -16,6 +16,48 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_nWyUWg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DPC3VE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Erzähle etwas über deine Marke",
+            "heading_size": "h1"
+          }
+        },
+        "text_iz9Tzi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Teile Infos über deine Marke mit deinen Kunden. Beschreibe ein Produkt, kündige etwas an oder heiße Kunden willkommen.</p>"
+          }
+        },
+        "button_cAY7XK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Schaltflächenbeschriftung",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DPC3VE",
+        "text_iz9Tzi",
+        "button_cAY7XK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_ANHeNf": {
       "type": "image-banner",
       "blocks": {
@@ -77,7 +119,7 @@
         "text_hj7dNg": {
           "type": "text",
           "settings": {
-            "text": "<p>Der flachs wird von Swissflax...</p>",
+            "text": "<p>Flachs ist seit jeher einer der wichtigsten Wirtschaftszweige der Schweiz. Im Zuge der Industrialisierung wurde Flachs jedoch weitgehend durch importierte Baumwolle ersetzt. Im Gegensatz zu Baumwolle sind der Anbau und die Verarbeitung von Flachs nahezu CO2-neutral. Die Flachsfasern sind hautfreundlich, kühlend, äusserst haltbar und stark. Für die Webproduktion arbeitet NERI mit der Swissflax GmbH zusammen, die die Wiederbelebung des Flachsanbaus unterstützt. Die Kette (vertikale Fäden auf dem Webstuhl) besteht aus gezwirntem Garn in seiner natürlichen Farbe, der Schuss (horizontale Fäden) aus Einfachgarn von Swissflax, teilweise roh und pflanzengefärbt von der Botanitex GmbH in der Färberei Probst AG. Das Ergebnis dieser Zusammenarbeit ist ein vollständig biologisch abbaubares Leinengarn.</p>",
             "text_style": "body"
           }
         },
@@ -246,6 +288,7 @@
   },
   "order": [
     "main",
+    "rich_text_nWyUWg",
     "image_banner_ANHeNf",
     "image_with_text_3Aygth",
     "collage_wVRRm6",
