@@ -175,12 +175,13 @@
         "slide_pDfJrt": {
           "type": "slide",
           "settings": {
-            "heading": "Slideshow",
+            "image": "shopify://shop_images/NERI_miradurrer_05.jpg",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Erzähle deine Geschichte mit Fotos",
-            "button_label": "Schaltflächenbeschriftung",
+            "subheading": "",
+            "button_label": "",
             "link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
