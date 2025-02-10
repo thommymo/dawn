@@ -26,12 +26,6 @@
             "heading_size": "h1"
           }
         },
-        "text_iz9Tzi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>neri steht für ein Netzwerk von ökologischen und regional hergestellten industriell produzierten Geweben.</p><p>neri verbindet den Prozess der gewebten Textilien - Rohfaser, Hersteller, industrielle Produktion und Kunde<br/><br/>neri ist transparent in der gesamten Wertschöpfungskette<br/><br/>neri ermöglicht kleine Mengen und individuellen Designs<br/><br/>neri bauen kürzestmögliche Lieferketten auf<br/><br/>neri verwenden regenerative & lokale Materialien<br/><br/>neri vernetzt Industrie & Designer</p>"
-          }
-        },
         "button_cAY7XK": {
           "type": "button",
           "settings": {
@@ -46,7 +40,6 @@
       },
       "block_order": [
         "heading_DPC3VE",
-        "text_iz9Tzi",
         "button_cAY7XK"
       ],
       "settings": {

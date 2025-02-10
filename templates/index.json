@@ -159,6 +159,115 @@
         "padding_bottom": 36
       }
     },
+    "slideshow_LcrR9c": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_fVtETA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NERI_miradurrer_01_1778b5a2-8275-4673-9e8a-11c40c8db358.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_TPFCDc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1187.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_D876PA": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slideshow",
+            "heading_size": "h1",
+            "subheading": "Erzähle deine Geschichte mit Fotos",
+            "button_label": "Schaltflächenbeschriftung",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_pDfJrt": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slideshow",
+            "heading_size": "h1",
+            "subheading": "Erzähle deine Geschichte mit Fotos",
+            "button_label": "Schaltflächenbeschriftung",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_r4bpHB": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slideshow",
+            "heading_size": "h1",
+            "subheading": "Erzähle deine Geschichte mit Fotos",
+            "button_label": "Schaltflächenbeschriftung",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_fVtETA",
+        "slide_TPFCDc",
+        "slide_D876PA",
+        "slide_pDfJrt",
+        "slide_r4bpHB"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow zu deiner Marke"
+      }
+    },
     "image_with_text_AGrjwf": {
       "type": "image-with-text",
       "blocks": {
@@ -249,6 +358,7 @@
     "featured_collection",
     "image_banner_r8EHNM",
     "video",
+    "slideshow_LcrR9c",
     "image_with_text_AGrjwf",
     "multicolumn"
   ]
