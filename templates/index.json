@@ -12,64 +12,10 @@
     "slideshow_LcrR9c": {
       "type": "slideshow",
       "blocks": {
-        "slide_fVtETA": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/NERI_miradurrer_01_1778b5a2-8275-4673-9e8a-11c40c8db358.jpg",
-            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "shop all",
-            "link": "shopify://collections/all",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_TPFCDc": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Flach_Rushes_DZX1187.jpg",
-            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "shop all",
-            "link": "shopify://collections/all",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_D876PA": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/NERI_miradurrer_02.jpg",
-            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "shop all",
-            "link": "shopify://collections/all",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_pDfJrt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/NERI_miradurrer_05.jpg",
             "heading": "Leinengewebe, ökologisch und regional hergestellt.",
             "heading_size": "h1",
             "subheading": "",
@@ -101,14 +47,68 @@
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_D876PA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NERI_miradurrer_02.jpg",
+            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "shop all",
+            "link": "shopify://collections/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_fVtETA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NERI_miradurrer_01_1778b5a2-8275-4673-9e8a-11c40c8db358.jpg",
+            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "shop all",
+            "link": "shopify://collections/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_pDfJrt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Hintergrund_04_d.jpg",
+            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "shop all",
+            "link": "shopify://collections/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_fVtETA",
         "slide_TPFCDc",
+        "slide_DULBLy",
         "slide_D876PA",
-        "slide_pDfJrt",
-        "slide_DULBLy"
+        "slide_fVtETA",
+        "slide_pDfJrt"
       ],
       "settings": {
         "layout": "full_bleed",
