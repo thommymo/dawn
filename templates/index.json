@@ -83,13 +83,32 @@
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_DULBLy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1164.jpg",
+            "heading": "Leinengewebe, ökologisch und regional hergestellt.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "shop all",
+            "link": "shopify://collections/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_fVtETA",
         "slide_TPFCDc",
         "slide_D876PA",
-        "slide_pDfJrt"
+        "slide_pDfJrt",
+        "slide_DULBLy"
       ],
       "settings": {
         "layout": "full_bleed",
