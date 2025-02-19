@@ -306,7 +306,7 @@
         "button_Me7xGX": {
           "type": "button",
           "settings": {
-            "button_label": "Schaltflächenbeschriftung",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false
           }
