@@ -21,8 +21,9 @@
       "blocks": {
         "heading_DPC3VE": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "über neri",
+            "heading": "Vom Feld – zum Garn – zum gewobenen Stoff.",
             "heading_size": "h1"
           }
         },
@@ -51,61 +52,13 @@
         "padding_bottom": 12
       }
     },
-    "image_banner_ANHeNf": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_jHziqj": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_iTtkUW": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_nCxepq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_jHziqj",
-        "text_iTtkUW",
-        "buttons_nCxepq"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Flach_Rushes_DZX1164.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "image_with_text_3Aygth": {
       "type": "image-with-text",
       "blocks": {
         "heading_TVGcKz": {
           "type": "heading",
           "settings": {
-            "heading": "Vom Feld",
+            "heading": "Vom Feld, zum Garn, zum gewobenen Stoff.",
             "heading_size": "h2"
           }
         },
@@ -152,7 +105,7 @@
         "image_YJiPdV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/flachsfeld.jpg"
+            "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg"
           }
         },
         "image_RenNH6": {
@@ -163,7 +116,9 @@
         },
         "image_QfQiaV": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/flachsfeld_584b7867-448d-4af7-8c79-500edfe14ff1.jpg"
+          }
         }
       },
       "block_order": [
@@ -273,7 +228,7 @@
         "image_eWFFQh"
       ],
       "settings": {
-        "heading": "zum fertigen Stoff",
+        "heading": "zum gewobenen Stoff",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -282,16 +237,64 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_ANHeNf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jHziqj": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_iTtkUW": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_nCxepq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jHziqj",
+        "text_iTtkUW",
+        "buttons_nCxepq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Flach_Rushes_DZX1164.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
     "rich_text_nWyUWg",
-    "image_banner_ANHeNf",
     "image_with_text_3Aygth",
     "collage_wVRRm6",
     "collage_RRmDHb",
     "collage_fkfjLG",
-    "collage_7H7NFK"
+    "collage_7H7NFK",
+    "image_banner_ANHeNf"
   ]
 }
