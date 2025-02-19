@@ -83,6 +83,7 @@
         "text_hj7dNg",
         "button_FqeRgg"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg",
         "height": "adapt",
@@ -126,6 +127,7 @@
         "image_RenNH6",
         "image_QfQiaV"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Auf dem Feld",
         "heading_size": "h1",
@@ -157,6 +159,7 @@
         "image_NjPmiw",
         "image_XYywQz"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -189,6 +192,7 @@
         "image_MfjXyz",
         "image_HNQmCK"
       ],
+      "disabled": true,
       "settings": {
         "heading": "zum Garn",
         "heading_size": "h1",
@@ -227,6 +231,7 @@
         "image_rCH9Af",
         "image_eWFFQh"
       ],
+      "disabled": true,
       "settings": {
         "heading": "zum gewobenen Stoff",
         "heading_size": "h1",
