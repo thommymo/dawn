@@ -9,44 +9,6 @@
  */
 {
   "sections": {
-    "image_with_text_AGrjwf": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_rtQxqT": {
-          "type": "heading",
-          "settings": {
-            "heading": "About",
-            "heading_size": "h1"
-          }
-        },
-        "text_QCwggh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Das bin ich, Mira, Designerin der gewebten Stoffe, Ermöglicherin, Kommunikatorin und die Fadenzieherin hinter NERI. Als leidenschaftliche Handweberin setze ich mich dafür ein, die gesamte Wertschöpfungskette zu verbinden: vom Samen über die Faser und das Garn bis hin zum gewebten Textil. Mit meiner Arbeit möchte ich die Beziehung zwischen dem Träger und der Entstehung des gewebten Textils fördern. Ich sehe mich als Bindeglied zwischen dem Anbau lokaler nachwachsender Rohstoffe, traditionellem Handwerk, Kleinunternehmern und industriellen Webereien. <br/>Als Mitglied von Fibershed DACH und als Dozentin im Material und Gewebe gebe ich mein Wissen weiter und lerne von der Community und meinen Studierenden.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rtQxqT",
-        "text_QCwggh"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/NERI_portrait_miradurrer.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "slideshow_LcrR9c": {
       "type": "slideshow",
       "blocks": {
@@ -357,7 +319,6 @@
     }
   },
   "order": [
-    "image_with_text_AGrjwf",
     "slideshow_LcrR9c",
     "image_banner",
     "rich_text",
