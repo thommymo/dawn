@@ -292,14 +292,14 @@
         "heading_BEhzVf": {
           "type": "heading",
           "settings": {
-            "heading": "Bild mit Text",
+            "heading": "Über neri",
             "heading_size": "h1"
           }
         },
         "text_nQU4kh": {
           "type": "text",
           "settings": {
-            "text": "<p>Kombiniere Text mit einem Bild, um den Fokus auf dein Produkt, deine Kollektion oder deinen Blog-Beitrag zu richten. Du kannst außerdem weitere Details über die Verfügbarkeit oder den Stil und sogar eine Bewertung hinzufügen.</p>",
+            "text": "<p>Das bin ich, Mira, Designerin der gewebten Stoffe, Ermöglicherin, Kommunikatorin und die Fadenzieherin hinter neri - textil. Als leidenschaftliche Handweberin setze ich mich dafür ein, die gesamte Wertschöpfungskette zu verbinden: vom Samen über die Faser und das Garn bis hin zum gewebten Textil. Mit meiner Arbeit möchte ich die Beziehung zwischen dem Träger und der Entstehung des gewebten Textils fördern. Ich sehe mich als Bindeglied zwischen dem Anbau lokaler nachwachsender Rohstoffe, traditionellem Handwerk, Kleinunternehmern und industriellen Webereien. <br/>Als Mitglied von Fibershed DACH und als Dozentin im Material und Gewebe gebe ich mein Wissen weiter und lerne von der Community und meinen Studierenden.</p>",
             "text_style": "body"
           }
         },
