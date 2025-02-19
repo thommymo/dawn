@@ -155,6 +155,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/NERI_miradurrer_02.jpg",
         "image_overlay_opacity": 0,

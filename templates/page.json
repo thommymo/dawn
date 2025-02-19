@@ -22,7 +22,7 @@
         "heading_DPC3VE": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "über neri",
             "heading_size": "h1"
           }
         },
@@ -43,8 +43,8 @@
         "button_cAY7XK"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 12,
