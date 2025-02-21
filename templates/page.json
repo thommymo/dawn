@@ -169,6 +169,7 @@
         "text_hj7dNg",
         "button_FqeRgg"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg",
         "height": "adapt",
@@ -353,6 +354,7 @@
         "text_nQU4kh",
         "button_Me7xGX"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/NERI_portrait_miradurrer.jpg",
         "height": "adapt",
