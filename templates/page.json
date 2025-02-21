@@ -11,9 +11,48 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
+      }
+    },
+    "collage_wVRRm6": {
+      "type": "collage",
+      "blocks": {
+        "image_YJiPdV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg"
+          }
+        },
+        "image_RenNH6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1303.jpg"
+          }
+        },
+        "image_QfQiaV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/flachsfeld_584b7867-448d-4af7-8c79-500edfe14ff1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_YJiPdV",
+        "image_RenNH6",
+        "image_QfQiaV"
+      ],
+      "settings": {
+        "heading": "Vom Feld...",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_nWyUWg": {
@@ -99,44 +138,6 @@
         "padding_bottom": 36
       }
     },
-    "collage_wVRRm6": {
-      "type": "collage",
-      "blocks": {
-        "image_YJiPdV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg"
-          }
-        },
-        "image_RenNH6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1303.jpg"
-          }
-        },
-        "image_QfQiaV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/flachsfeld_584b7867-448d-4af7-8c79-500edfe14ff1.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_YJiPdV",
-        "image_RenNH6",
-        "image_QfQiaV"
-      ],
-      "settings": {
-        "heading": "Auf dem Feld",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collage_RRmDHb": {
       "type": "collage",
       "blocks": {
@@ -195,6 +196,38 @@
       ],
       "settings": {
         "heading": "zum Garn",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_nhLPG8": {
+      "type": "collage",
+      "blocks": {
+        "image_NgEVEe": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_yrpBYi": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_zcMhTV": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_NgEVEe",
+        "image_yrpBYi",
+        "image_zcMhTV"
+      ],
+      "settings": {
+        "heading": "zum Entwurf",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -340,11 +373,12 @@
   },
   "order": [
     "main",
+    "collage_wVRRm6",
     "rich_text_nWyUWg",
     "image_with_text_3Aygth",
-    "collage_wVRRm6",
     "collage_RRmDHb",
     "collage_fkfjLG",
+    "collage_nhLPG8",
     "collage_7H7NFK",
     "image_with_text_fTh4jd",
     "image_banner_ANHeNf"
