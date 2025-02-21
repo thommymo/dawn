@@ -83,7 +83,6 @@
         "text_hj7dNg",
         "button_FqeRgg"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Flach_Rushes_DZX1226.jpg",
         "height": "adapt",
@@ -127,7 +126,6 @@
         "image_RenNH6",
         "image_QfQiaV"
       ],
-      "disabled": true,
       "settings": {
         "heading": "Auf dem Feld",
         "heading_size": "h1",
@@ -151,7 +149,7 @@
         "image_XYywQz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Flach_Rushes_DZX1702.jpg"
+            "image": "shopify://shop_images/Flachs_drehen_1809_8a6ddc8e-ad98-46dd-b971-c58b4093029b.jpg"
           }
         }
       },
@@ -159,7 +157,6 @@
         "image_NjPmiw",
         "image_XYywQz"
       ],
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -180,11 +177,15 @@
         },
         "image_MfjXyz": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/neri_Flachs_3370.jpg"
+          }
         },
         "image_HNQmCK": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/neri_Flachs_3107.jpg"
+          }
         }
       },
       "block_order": [
@@ -192,7 +193,6 @@
         "image_MfjXyz",
         "image_HNQmCK"
       ],
-      "disabled": true,
       "settings": {
         "heading": "zum Garn",
         "heading_size": "h1",
@@ -231,7 +231,6 @@
         "image_rCH9Af",
         "image_eWFFQh"
       ],
-      "disabled": true,
       "settings": {
         "heading": "zum gewobenen Stoff",
         "heading_size": "h1",
