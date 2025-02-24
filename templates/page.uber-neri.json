@@ -30,7 +30,7 @@
         "text_nQU4kh": {
           "type": "text",
           "settings": {
-            "text": "<p>Das bin ich, Mira, Designerin, Ermöglicherin, Kommunikatorin und die Fadenzieherin hinter neri. Als leidenschaftliche Handweberin setze ich mich dafür ein, die gesamte Wertschöpfungskette zu verbinden: vom Samen über die Faser und das Garn bis hin zum gewebten Textil. Mit meiner Arbeit möchte ich die Beziehung zwischen dem Träger und der Entstehung des gewebten Textils fördern. Ich sehe mich als Bindeglied zwischen dem Anbau lokaler nachwachsender Rohstoffe, traditionellem Handwerk, Kleinunternehmern und industriellen Webereien. <br/>Als Mitglied von Fibershed DACH und als Dozentin im Material und Gewebe gebe ich mein Wissen weiter und lerne von der Community und meinen Studierenden.</p>",
+            "text": "<p>Das bin ich, Mira, Designerin, Ermöglicherin, Kommunikatorin und die Fadenzieherin hinter neri. Als leidenschaftliche Handweberin setze ich mich dafür ein, die gesamte Wertschöpfungskette zu verbinden: vom Samen über die Faser und das Garn bis hin zum gewebten Textil. Mit meiner Arbeit möchte ich die Beziehung zwischen dem Träger und der Entstehung des gewebten Textils fördern. Ich sehe mich als Bindeglied zwischen dem Anbau lokaler nachwachsender Rohstoffe, traditionellem Handwerk, Kleinunternehmern und industriellen Webereien. <br/>Als Vize Präsidentin von <a href=\"https://www.fibershed-dach.org\" title=\"https://www.fibershed-dach.org\">Fibershed DACH</a> und als Dozentin im Material und Gewebe gebe ich mein Wissen weiter und lerne von der Community und den Studierenden.</p>",
             "text_style": "body"
           }
         },
@@ -64,41 +64,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_nWyUWg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DPC3VE": {
-          "type": "heading",
-          "settings": {
-            "heading": "Vom Feld, zum Garn, zum gewobenen Textil.",
-            "heading_size": "h1"
-          }
-        },
-        "button_cAY7XK": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DPC3VE",
-        "button_cAY7XK"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
     "collage_wVRRm6": {
       "type": "collage",
       "blocks": {
@@ -127,7 +92,7 @@
         "image_QfQiaV"
       ],
       "settings": {
-        "heading": "Flachs aus dem Emmental,gesäht, geerntet und weiterverarbeitet zu Garn. Mehr zu der Zusammenarbeit mit der <a href=\"https://swissflax.ch\" title=\"https://swissflax.ch\">Swissflax GmBh</a>",
+        "heading": "Vom Feld, zum Garn, zum gewobenen Textil. Flachs aus dem Emmental,gesäht, geerntet und weiterverarbeitet zu Garn. Mehr zu der Zusammenarbeit mit der <a href=\"https://swissflax.ch\" title=\"https://swissflax.ch\">Swissflax GmBh</a>",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -320,7 +285,6 @@
   "order": [
     "main",
     "image_with_text_fTh4jd",
-    "rich_text_nWyUWg",
     "collage_wVRRm6",
     "image_with_text_3Aygth",
     "collage_RRmDHb",
