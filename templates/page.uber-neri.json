@@ -263,7 +263,7 @@
         "image_ibm9wp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_7520.jpg"
+            "image": "shopify://shop_images/produktion_3649.jpg"
           }
         },
         "image_rCH9Af": {
@@ -275,7 +275,7 @@
         "image_eWFFQh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_7704.jpg"
+            "image": "shopify://shop_images/IMG_7520.jpg"
           }
         }
       },
@@ -304,7 +304,9 @@
         },
         "image_aPTqHQ": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_7704.jpg"
+          }
         }
       },
       "block_order": [
