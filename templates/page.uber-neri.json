@@ -213,7 +213,7 @@
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
+        "card_styles": "none",
         "color_scheme": "",
         "padding_top": 52,
         "padding_bottom": 36
