@@ -243,6 +243,28 @@
         "padding_bottom": 36
       }
     },
+    "collage_3QWxzD": {
+      "type": "collage",
+      "blocks": {
+        "image_rxDPDT": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_rxDPDT"
+      ],
+      "settings": {
+        "heading": "Garnfärbung",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage_7H7NFK": {
       "type": "collage",
       "blocks": {
@@ -261,7 +283,7 @@
         "image_eWFFQh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_7725.jpg"
+            "image": "shopify://shop_images/IMG_7704.jpg"
           }
         }
       },
@@ -290,6 +312,7 @@
     "collage_RRmDHb",
     "collage_fkfjLG",
     "collage_nhLPG8",
+    "collage_3QWxzD",
     "collage_7H7NFK"
   ]
 }
