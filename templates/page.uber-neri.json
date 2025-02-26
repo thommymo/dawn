@@ -293,7 +293,7 @@
         "image_rxDPDT"
       ],
       "settings": {
-        "heading": "Zum Schluss werden die Gewebe bei Johann Müller Textil",
+        "heading": "Zum Schluss werden die Gewebe bei <a href=\"https://www.mueller-textil.ch/de/willkommen/\" title=\"https://www.mueller-textil.ch/de/willkommen/\">Johann Müller Textil</a> gewaschen und gedämpft.",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
