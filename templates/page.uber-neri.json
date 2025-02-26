@@ -189,13 +189,27 @@
           "settings": {
             "image": "shopify://shop_images/neri_Flachs_3081.jpg"
           }
+        },
+        "image_cUPgQV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neri_Flachs_3162.jpg"
+          }
+        },
+        "image_aLhFrV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neri_Flachs_3370.jpg"
+          }
         }
       },
       "block_order": [
-        "image_RHa39A"
+        "image_RHa39A",
+        "image_cUPgQV",
+        "image_aLhFrV"
       ],
       "settings": {
-        "heading": "zum Garn",
+        "heading": "Der Flachs wird zu Ballen gepresst, aufgeschlossen und die holzigen Teile entfernt. Damit ist er bereit für den Spinnprozess.",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -287,10 +301,15 @@
         "image_rxDPDT": {
           "type": "image",
           "settings": {}
+        },
+        "image_aPTqHQ": {
+          "type": "image",
+          "settings": {}
         }
       },
       "block_order": [
-        "image_rxDPDT"
+        "image_rxDPDT",
+        "image_aPTqHQ"
       ],
       "settings": {
         "heading": "Zum Schluss werden die Gewebe bei <a href=\"https://www.mueller-textil.ch/de/willkommen/\" title=\"https://www.mueller-textil.ch/de/willkommen/\">Johann Müller Textil</a> gewaschen und gedämpft.",
