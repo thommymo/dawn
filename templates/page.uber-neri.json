@@ -196,7 +196,7 @@
       ],
       "settings": {
         "heading": "zum Garn",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
@@ -233,7 +233,7 @@
         "image_zcMhTV"
       ],
       "settings": {
-        "heading": "Das Garn wird im Atelier in Luzern an Handwebstühlen zu Gewebemustern verwoben.",
+        "heading": "Das Garn wird auf Handwebstühlen zu Gewebeentwürfen verarbeitet. Diese sind auf die technischen Anforderungen der industriellen Produktion abgestimmt.",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
