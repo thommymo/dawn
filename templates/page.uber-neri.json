@@ -285,13 +285,13 @@
         "image_eWFFQh"
       ],
       "settings": {
-        "heading": "Anhand der Muster werden die Bestellungen gesammelt und ausgewählte Muster bei der  <a href=\"https://minnotex.swiss\" title=\"https://minnotex.swiss\">Weberei Minnotex</a> industriell gewoben.",
+        "heading": "Anhand der Muster werden die Bestellungen gesammelt und ausgewählte Muster bei der  <a href=\"https://minnotex.swiss\" title=\"https://minnotex.swiss\">Weberei Minnotex</a> industriell gewoben. Die Kette (vertikal auf dem Webstuhl) besteht aus gekochtem Rohgarn, wobei das Schussgarn in roh oder gefärbt verwendet wird.",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
-        "padding_top": 36,
+        "padding_top": 52,
         "padding_bottom": 36
       }
     },
