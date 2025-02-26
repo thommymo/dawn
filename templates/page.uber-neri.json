@@ -231,13 +231,13 @@
         "image_yrpBYi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERI_miradurrer_05.jpg"
+            "image": "shopify://shop_images/NERI_miradurrer_01.jpg"
           }
         },
         "image_zcMhTV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERI_miradurrer_01.jpg"
+            "image": "shopify://shop_images/neri_design_01.jpg"
           }
         }
       },
