@@ -298,23 +298,25 @@
     "collage_3QWxzD": {
       "type": "collage",
       "blocks": {
-        "image_rxDPDT": {
-          "type": "image",
-          "settings": {}
-        },
         "image_aPTqHQ": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_7704.jpg"
           }
+        },
+        "image_iLnMRy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neri_waschen_8274.jpg"
+          }
         }
       },
       "block_order": [
-        "image_rxDPDT",
-        "image_aPTqHQ"
+        "image_aPTqHQ",
+        "image_iLnMRy"
       ],
       "settings": {
-        "heading": "Zum Schluss werden die Gewebe bei <a href=\"https://www.mueller-textil.ch/de/willkommen/\" title=\"https://www.mueller-textil.ch/de/willkommen/\">Johann Müller Textil</a> gewaschen und gedämpft.",
+        "heading": "Zum Schluss werden die Leinengewebe bei <a href=\"https://www.mueller-textil.ch/de/willkommen/\" title=\"https://www.mueller-textil.ch/de/willkommen/\">Johann Müller Textil</a> gewaschen und gedämpft.",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
