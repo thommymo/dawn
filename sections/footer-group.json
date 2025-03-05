@@ -40,7 +40,7 @@
           "type": "text",
           "settings": {
             "heading": "Info",
-            "subtext": "<p>Verkauf<br/>Versand & Bezahlung<br/>AGBs</p>"
+            "subtext": "<p>Impressum<br/>Datenschutz<br/>AGB</p>"
           }
         }
       },
