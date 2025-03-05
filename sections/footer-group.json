@@ -40,7 +40,7 @@
           "type": "text",
           "settings": {
             "heading": "Info",
-            "subtext": "<p><a href=\"/pages/impressum\" title=\"Impressum\">Impressum</a><br/><a href=\"/pages/datenschutz\" title=\"Datenschutz\">Datenschutz</a><br/><a href=\"/pages/agb\" title=\"AGB\">AGB</a></p>"
+            "subtext": "<p><a href=\"/pages/impressum\" target=\"_blank\" title=\"Impressum\">Impressum</a><br/><a href=\"/pages/datenschutz\" title=\"Datenschutz\">Datenschutz</a><br/><a href=\"/pages/agb\" title=\"AGB\">AGB</a></p>"
           }
         }
       },
