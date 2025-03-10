@@ -230,11 +230,15 @@
         },
         "image_C3M6Fn": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/neri_garn_7717.jpg"
+          }
         },
         "image_6pEMN7": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/neri_kette.jpg"
+          }
         }
       },
       "block_order": [
@@ -259,7 +263,7 @@
         "image_NgEVEe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/neri_samples_02.jpg"
+            "image": "shopify://shop_images/neri_garn_3607.jpg"
           }
         },
         "image_yrpBYi": {
