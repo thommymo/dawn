@@ -212,12 +212,6 @@
     "collage_nhLPG8": {
       "type": "collage",
       "blocks": {
-        "image_NgEVEe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/neri_garn_3607.jpg"
-          }
-        },
         "image_yrpBYi": {
           "type": "image",
           "settings": {
@@ -232,7 +226,6 @@
         }
       },
       "block_order": [
-        "image_NgEVEe",
         "image_yrpBYi",
         "image_zcMhTV"
       ],
