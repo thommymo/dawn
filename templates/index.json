@@ -183,13 +183,27 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Neri produziert biologisch abbaubare Textilien und setzt dabei auf kurze Lieferketten. Dabei werden die Umweltbelastung minimiert und die lokale Wertschöpfung gestärkt.</p>"
+            "text": "<p>neri produziert biologisch abbaubare Textilien und setzt dabei auf kurze Lieferketten. Dabei werden die Umweltbelastung minimiert und die lokale Wertschöpfung gestärkt.</p>"
+          }
+        },
+        "text_J3B9BA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>neri teilt die Produktion in viele kleinere Bestellungen auf und ermöglicht dadurch eine Zusammenarbeit mit der lokalen Industrie. </p>"
+          }
+        },
+        "text_3VfgAa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>neri erzählt die Geschichte von der Aussaat - zum Garn - zum gewobenen Textil und kennt jeden einzelnen Schritt in der Entstehung.</p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "text_J3B9BA",
+        "text_3VfgAa"
       ],
       "settings": {
         "desktop_content_position": "center",
