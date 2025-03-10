@@ -11,57 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
-      }
-    },
-    "image_with_text_fTh4jd": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_BEhzVf": {
-          "type": "heading",
-          "settings": {
-            "heading": "Über neri",
-            "heading_size": "h1"
-          }
-        },
-        "text_nQU4kh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Das bin ich, Mira, Designerin, Ermöglicherin, Kommunikatorin und die Fadenzieherin hinter neri. Als leidenschaftliche Handweberin setze ich mich dafür ein, die gesamte Wertschöpfungskette vom Textil zu verbinden: vom Samen über die Faser und das Garn bis hin zum Gewebe. Dabei vernetze ich alle beteiligten Akteur:innen.  Ich sehe mich als Bindeglied zwischen dem Landwirt:innen von Rohstoffen, lokalen Produzent:innen, Kleinunternehmer:innen  und dem Weben als Handwerk. Mich interessieren die Menschen dahinter und erzähle deren Geschichte durch die gewobenen Stoffe. <br/>Weiter bin ich als Vize Präsidentin von <a href=\"https://www.fibershed-dach.org\" title=\"https://www.fibershed-dach.org\">Fibershed DACH</a> und als Dozentin im Material und Gewebe engagiert und leidenschaftlich dabei.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Me7xGX": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_BEhzVf",
-        "text_nQU4kh",
-        "button_Me7xGX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/NERI_portrait_miradurrer.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 60,
-        "padding_bottom": 36
       }
     },
     "collage_wVRRm6": {
@@ -367,7 +319,6 @@
   },
   "order": [
     "main",
-    "image_with_text_fTh4jd",
     "collage_wVRRm6",
     "image_with_text_3Aygth",
     "collage_RRmDHb",
