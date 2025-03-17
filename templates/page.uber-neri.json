@@ -174,22 +174,22 @@
     "collage_zVyazn": {
       "type": "collage",
       "blocks": {
-        "image_NyPTXJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/neri_farberei_8004.jpg"
-          }
-        },
         "image_6pEMN7": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/neri_kette.jpg"
           }
+        },
+        "image_NyPTXJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neri_farberei_8004.jpg"
+          }
         }
       },
       "block_order": [
-        "image_NyPTXJ",
-        "image_6pEMN7"
+        "image_6pEMN7",
+        "image_NyPTXJ"
       ],
       "settings": {
         "heading": "",
@@ -214,7 +214,7 @@
         "image_zcMhTV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/neri_design_01.jpg"
+            "image": "shopify://shop_images/neri_samples_02.jpg"
           }
         }
       },
