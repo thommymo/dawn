@@ -201,36 +201,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_Ld3bQe": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_YPNtkU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mehr zu {{ product.title }}",
-            "heading_size": "h1"
-          }
-        },
-        "text_dyixmG": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.custom.fabric_in_detail | metafield_tag }}"
-          }
-        }
-      },
-      "block_order": [
-        "heading_YPNtkU",
-        "text_dyixmG"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -350,7 +320,6 @@
     "main",
     "multicolumn_qmcDLz",
     "multicolumn_tfR6AA",
-    "rich_text_Ld3bQe",
     "related-products",
     "multirow_HYGNkx"
   ]
