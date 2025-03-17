@@ -180,6 +180,12 @@
             "heading_size": "h1"
           }
         },
+        "text_3VfgAa": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>neri erzählt die Geschichte von der Aussaat - zum Garn - zum gewobenen Textil und kennt jeden Schritt in der Entstehung.</h3>"
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -191,19 +197,13 @@
           "settings": {
             "text": "<h3>neri teilt die Produktion in viele kleinere Bestellungen auf und ermöglicht dadurch eine Zusammenarbeit mit der lokalen Industrie. </h3>"
           }
-        },
-        "text_3VfgAa": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>neri erzählt die Geschichte von der Aussaat - zum Garn - zum gewobenen Textil und kennt jeden Schritt in der Entstehung.</h3>"
-          }
         }
       },
       "block_order": [
         "heading",
+        "text_3VfgAa",
         "text",
-        "text_J3B9BA",
-        "text_3VfgAa"
+        "text_J3B9BA"
       ],
       "settings": {
         "desktop_content_position": "center",
