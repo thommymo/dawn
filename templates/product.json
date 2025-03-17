@@ -90,8 +90,8 @@
         "column_PLAVKJ": {
           "type": "column",
           "settings": {
-            "title": "Schrumpfung",
-            "text": "<p>Max 4%</p>",
+            "title": "Garn",
+            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH, Willadingen<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller, OEKO-tex zertifiziert</p>",
             "link_label": "",
             "link": ""
           }
@@ -99,8 +99,8 @@
         "column_q7TLiR": {
           "type": "column",
           "settings": {
-            "title": "Garn",
-            "text": "<p>Rohleinen in Kombination mit OEKO-tex zertifiziertem Farbgarn</p>",
+            "title": "Gewicht",
+            "text": "<p>305gr</p>",
             "link_label": "",
             "link": ""
           }
@@ -120,6 +120,69 @@
         "column_PLAVKJ",
         "column_q7TLiR",
         "column_PUGAzg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_tfR6AA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6rL8F6": {
+          "type": "column",
+          "settings": {
+            "title": "Material",
+            "text": "<p>100% Leinen</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qxUEae": {
+          "type": "column",
+          "settings": {
+            "title": "Schrumpfung",
+            "text": "<p>Max 4%</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hqPywQ": {
+          "type": "column",
+          "settings": {
+            "title": "Garn",
+            "text": "<p>Kettgarn: Leinen roh <br/>Schussgarn roh: Leinen roh von Swissflax GmbH oder in Kombination mit OEKO-tex zertifiziertem Farbgarn</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JTKmke": {
+          "type": "column",
+          "settings": {
+            "title": "Konfektionierung",
+            "text": "<p>Vorgewaschen und gedämpft</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6rL8F6",
+        "column_qxUEae",
+        "column_hqPywQ",
+        "column_JTKmke"
       ],
       "settings": {
         "title": "",
@@ -286,6 +349,7 @@
   "order": [
     "main",
     "multicolumn_qmcDLz",
+    "multicolumn_tfR6AA",
     "rich_text_Ld3bQe",
     "related-products",
     "multirow_HYGNkx"
