@@ -87,15 +87,6 @@
             "link": ""
           }
         },
-        "column_PLAVKJ": {
-          "type": "column",
-          "settings": {
-            "title": "Garn",
-            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller, OEKO-tex zertifiziert</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_q7TLiR": {
           "type": "column",
           "settings": {
@@ -113,13 +104,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_PLAVKJ": {
+          "type": "column",
+          "settings": {
+            "title": "Einsprung",
+            "text": "<p>max 4 %</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_htdhHX",
-        "column_PLAVKJ",
         "column_q7TLiR",
-        "column_PUGAzg"
+        "column_PUGAzg",
+        "column_PLAVKJ"
       ],
       "settings": {
         "title": "",
@@ -135,12 +135,21 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_tfR6AA": {
       "type": "multicolumn",
       "blocks": {
+        "column_JTKmke": {
+          "type": "column",
+          "settings": {
+            "title": "Garn",
+            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller, OEKO-tex zertifiziert</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_6rL8F6": {
           "type": "column",
           "settings": {
@@ -167,22 +176,13 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_JTKmke": {
-          "type": "column",
-          "settings": {
-            "title": "Einsprung",
-            "text": "<p>max 4%</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "column_JTKmke",
         "column_6rL8F6",
         "column_qxUEae",
-        "column_hqPywQ",
-        "column_JTKmke"
+        "column_hqPywQ"
       ],
       "settings": {
         "title": "",
@@ -197,7 +197,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
