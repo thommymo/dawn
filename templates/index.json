@@ -183,19 +183,19 @@
         "text_3VfgAa": {
           "type": "text",
           "settings": {
-            "text": "<h3>neri erzählt die Geschichte von der Aussaat - zum Garn - zum gewobenen Textil und kennt jeden Schritt in der Entstehung.</h3>"
+            "text": "<h2>neri erzählt die Geschichte von der Aussaat - zum Garn - zum gewobenen Textil und kennt jeden Schritt in der Entstehung.</h2>"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>neri produziert biologisch abbaubare Textilien und setzt dabei auf kurze Lieferketten. Dabei werden die Umweltbelastung minimiert und die lokale Wertschöpfung gestärkt.</h3>"
+            "text": "<h2>neri produziert biologisch abbaubare Textilien und setzt dabei auf kurze Lieferketten. Dabei werden die Umweltbelastung minimiert und die lokale Wertschöpfung gestärkt.</h2>"
           }
         },
         "text_J3B9BA": {
           "type": "text",
           "settings": {
-            "text": "<h3>neri teilt die Produktion in viele kleinere Bestellungen auf und ermöglicht dadurch eine Zusammenarbeit mit der lokalen Industrie. </h3>"
+            "text": "<h2>neri teilt die Produktion in viele kleinere Bestellungen auf und ermöglicht dadurch eine Zusammenarbeit mit der lokalen Industrie. </h2>"
           }
         }
       },
@@ -238,7 +238,7 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 28,
+        "padding_top": 56,
         "padding_bottom": 36
       }
     },
