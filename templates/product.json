@@ -171,8 +171,8 @@
         "column_JTKmke": {
           "type": "column",
           "settings": {
-            "title": "Konfektionierung",
-            "text": "<p>Vorgewaschen und gedämpft</p>",
+            "title": "Einsprung",
+            "text": "<p>max 4%</p>",
             "link_label": "",
             "link": ""
           }
