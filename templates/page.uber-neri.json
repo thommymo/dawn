@@ -274,27 +274,27 @@
     "collage_3QWxzD": {
       "type": "collage",
       "blocks": {
-        "image_iLnMRy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_7725.jpg"
-          }
-        },
         "image_aPTqHQ": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_7704.jpg"
           }
+        },
+        "image_iLnMRy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/samplecard_8555.jpg"
+          }
         }
       },
       "block_order": [
-        "image_iLnMRy",
-        "image_aPTqHQ"
+        "image_aPTqHQ",
+        "image_iLnMRy"
       ],
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "desktop_layout": "right",
+        "desktop_layout": "left",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
