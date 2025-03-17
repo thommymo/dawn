@@ -265,6 +265,7 @@
         "row_awmd4n",
         "row_M4iTjU"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
