@@ -248,14 +248,14 @@
         "heading_KKUXcK": {
           "type": "heading",
           "settings": {
-            "heading": "Kollaborationen",
+            "heading": "Kollaborationen & Aufträge",
             "heading_size": "h2"
           }
         },
         "text_PmcEFq": {
           "type": "text",
           "settings": {
-            "text": "<p>Hier findest du konfektionierte Produkte aus den Stoffen. </p>"
+            "text": ""
           }
         },
         "button_PMcwQ9": {
@@ -281,7 +281,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 4
+        "padding_bottom": 0
       }
     },
     "multirow_i8Ejyk": {
