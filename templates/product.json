@@ -91,7 +91,7 @@
           "type": "column",
           "settings": {
             "title": "Garn",
-            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH, Willadingen<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller, OEKO-tex zertifiziert</p>",
+            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller, OEKO-tex zertifiziert</p>",
             "link_label": "",
             "link": ""
           }
@@ -144,8 +144,8 @@
         "column_6rL8F6": {
           "type": "column",
           "settings": {
-            "title": "Material",
-            "text": "<p>100% Leinen</p>",
+            "title": "Produktion",
+            "text": "<p>Industriell gewoben bei Minnotex GmbH in Herzogenbuchsee BE</p>",
             "link_label": "",
             "link": ""
           }
@@ -153,8 +153,8 @@
         "column_qxUEae": {
           "type": "column",
           "settings": {
-            "title": "Schrumpfung",
-            "text": "<p>Max 4%</p>",
+            "title": "Pflege",
+            "text": "<p>Maschinenwäsche bei 30 Grad. Nicht Tumblern. Ausschütteln und flach oder hängen trocknen.</p>",
             "link_label": "",
             "link": ""
           }
@@ -162,8 +162,8 @@
         "column_hqPywQ": {
           "type": "column",
           "settings": {
-            "title": "Garn",
-            "text": "<p>Kettgarn: Leinen roh <br/>Schussgarn roh: Leinen roh von Swissflax GmbH oder in Kombination mit OEKO-tex zertifiziertem Farbgarn</p>",
+            "title": "Hinweis",
+            "text": "<p>Nach dem Waschen fühlt sich der Stoff hart an. Nach dem ersten Tragen und benutzen entspannt sich die Faser und wird weich.</p>",
             "link_label": "",
             "link": ""
           }
