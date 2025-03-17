@@ -145,7 +145,7 @@
           "type": "column",
           "settings": {
             "title": "Garn",
-            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller, OEKO-tex zertifiziert</p>",
+            "text": "<p>Kette: Leinen roh gekocht von L`inificio, Bergamo<br/>Schuss natur: Leinen roh von Swissflax GmbH<br/>Schuss farbig: Leinen von L`inificio, gefärbt bei Johann Müller AG, OEKO-tex zertifiziert</p>",
             "link_label": "",
             "link": ""
           }
@@ -163,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "Pflege",
-            "text": "<p>Maschinenwäsche bei 30 Grad. Nicht Tumblern. Ausschütteln und flach oder hängen trocknen.</p>",
+            "text": "<p>Maschinenwäsche bei 30 Grad. Nicht Tumblern. Ausschütteln und flach oder hängend trocknen. In feuchtem Zustand bügeln.</p>",
             "link_label": "",
             "link": ""
           }
