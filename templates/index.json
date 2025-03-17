@@ -242,6 +242,48 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_pBLWWP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KKUXcK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kollaborationen",
+            "heading_size": "h2"
+          }
+        },
+        "text_PmcEFq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier findest du konfektionierte Produkte aus den Stoffen. </p>"
+          }
+        },
+        "button_PMcwQ9": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KKUXcK",
+        "text_PmcEFq",
+        "button_PMcwQ9"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 4
+      }
+    },
     "multirow_i8Ejyk": {
       "type": "multirow",
       "blocks": {
@@ -295,7 +337,7 @@
             "image": "shopify://shop_images/Livia_Naef_top01.jpg",
             "caption": "Kollaboration",
             "heading": "Livia Naef",
-            "text": "<p>Top mit Karree-Ausschnitt, breite Träger, Rückenmitte Naht</p>",
+            "text": "<p>Top mit Karree-Ausschnitt, breite Träger, Rückenmitte Naht.</p>",
             "button_label": "Webseite",
             "button_link": "https://livianaef.ch/produkt/era-violett/"
           }
@@ -332,7 +374,7 @@
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -357,6 +399,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
+    "rich_text_pBLWWP",
     "multirow_i8Ejyk",
     "video"
   ]
