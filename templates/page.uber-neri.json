@@ -180,12 +180,6 @@
             "image": "shopify://shop_images/neri_farberei_8004.jpg"
           }
         },
-        "image_C3M6Fn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/neri_garn_7717.jpg"
-          }
-        },
         "image_6pEMN7": {
           "type": "image",
           "settings": {
@@ -195,7 +189,6 @@
       },
       "block_order": [
         "image_NyPTXJ",
-        "image_C3M6Fn",
         "image_6pEMN7"
       ],
       "settings": {
