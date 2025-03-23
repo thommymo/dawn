@@ -281,7 +281,16 @@
                           <quantity-popover>
                             <div class="cart-item__quantity-wrapper quantity-popover-wrapper">
                               <div class="quantity-popover-container{% if has_qty_rules or has_vol_pricing %} quantity-popover-container--hover{% endif %}">
-                                {% if item.options_with_values.last == 144 %}
+                                {% assign meterOptions = '110,144' | split: ',' %}
+                                {% assign option2 = item.options_with_values[1].value | string %}
+                                {% assign is_option_in_meterOptions = false %}
+
+                                {% for meter in meterOptions %}
+                                  {% if meter == option2 %}
+                                    {% assign is_option_in_meterOptions = true %}
+                                  {% endif %}
+                                {% endfor %}
+                                {% if is_option_in_meterOptions %}
                                   Länge in cm
                                 {% endif %}
                                 <quantity-input class="quantity cart-quantity">
