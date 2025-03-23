@@ -323,6 +323,8 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
+        console.log(selection?.option2, !selection);
+
         if (selection?.option2 > 100 || !selection) {
           min = 50;
           step = 10;
