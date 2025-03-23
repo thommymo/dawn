@@ -51,7 +51,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -86,7 +86,7 @@
         "image_QfQiaV"
       ],
       "settings": {
-        "heading": "Von der Aussaat bis zum fertigen Gewebe – die neri-Stoffe bestehen aus 100% Flachs. Neri arbeitet dabei mit der <a href=\"https://swissflax.ch\" title=\"https://swissflax.ch\">Swissflax GmBh</a>  zusammen, die sich für die Wiederbelebung des Flachsanbaus in der Schweiz engagiert. Der Flachs wird auf rund 7,5 Hektaren im Emmental ausgesät, geerntet, geröstet und zu Ballen gepresst. Aufgrund der fehlenden Infrastruktur erfolgt die Weiterverarbeitung im nahen europäischen Raum: Die Fasern werden in Holland aufgeschlossen und in Bergamo, Italien, zu Garn versponnen. Im Atelier in Luzern entstehen aus dem gesponnenen Leinengarn neue Gewebe an Handwebstühlen. Die Entwürfe sind an die technischen Anforderungen der industriellen Produktion angepasst.Anhand der Muster sammeln wir die Bestellungen, und ausgewählte Muster werden bei der <a href=\"https://minnotex.swiss\" title=\"https://minnotex.swiss\">Weberei Minnotex</a> industriell gewoben. Die Kette besteht aus gekochtem Rohgarn, während das Schussgarn in roh oder gefärbt verwendet wird. Ein Teil des gesponnenen Garns wird bei Fritsch mit Eiche und Färbewau pflanzlich gefärbt. Zum Schluss werden die Leinengewebe bei <a href=\"https://www.mueller-textil.ch/de/willkommen/\" title=\"https://www.mueller-textil.ch/de/willkommen/\">Johann Müller Textil</a> gewaschen und gedämpft.",
+        "heading": "",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
