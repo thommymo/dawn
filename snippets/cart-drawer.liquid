@@ -292,6 +292,8 @@
                                 {% endfor %}
                                 {% if is_option_in_meterOptions %}
                                   Länge in cm
+                                {% else %}
+                                  Anzahl
                                 {% endif %}
                                 <quantity-input class="quantity cart-quantity">
                                   <button class="quantity__button" name="minus" type="button">
@@ -314,12 +316,24 @@
                                     value="{{ item.quantity }}"
                                     {% # theme-check-disable %}
                                     data-cart-quantity="{{ cart | item_count_for_variant: item.variant.id }}"
-                                    min="0"
+                                    min="
+                                      {%- if is_option_in_meterOptions -%}
+                                        50
+                                      {%- else -%}
+                                        1
+                                      {%- endif -%}
+                                    "
                                     data-min="{{ item.variant.quantity_rule.min }}"
                                     {% if item.variant.quantity_rule.max != null %}
                                       max="{{ item.variant.quantity_rule.max }}"
                                     {% endif %}
-                                    step="{{ item.variant.quantity_rule.increment }}"
+                                    step="
+                                      {%- if is_option_in_meterOptions -%}
+                                        10
+                                      {%- else -%}
+                                        1
+                                      {%- endif -%}
+                                    "
                                     {% # theme-check-enable %}
                                     aria-label="{{ 'products.product.quantity.input_label' | t: product: item.product.title | escape }}"
                                     id="Drawer-quantity-{{ item.index | plus: 1 }}"
