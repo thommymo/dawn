@@ -87,9 +87,7 @@ if (!customElements.get('product-form')) {
               quickAddModal.hide(true);
             } else {
               this.cart.renderContents(response);
-              if (this.cart.tagName === 'cart-drawer') {
-                this.cart.setAttribute('open', '');
-              }
+              this.cart.setAttribute('open', '');
             }
           })
           .catch((e) => {
