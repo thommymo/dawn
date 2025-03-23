@@ -323,8 +323,6 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
-        console.log(selection?.option2, !selection, data.min, data.cartQuantity);
-
         if (selection?.option2 > 100 || !selection) {
           min = 50;
           step = 10;
@@ -358,7 +356,7 @@ if (!customElements.get('product-info')) {
             this.updateQuantityRules(this.dataset.section, html);
           })
           .catch((e) => console.error(e))
-          .finally(() => this.querySelector('.quantity__rules-cart .loading__spinner').classList.add('hidden'));
+          .finally(() => this.querySelector('.quantity__rules-cart .loading__spinner')?.classList?.add('hidden'));
       }
 
       updateQuantityRules(sectionId, html) {
