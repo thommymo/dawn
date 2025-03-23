@@ -5,16 +5,6 @@
   {% render 'cart-drawer' %}
 {% endcomment %}
 
-{% assign meterOptions = '110,140' | split: ',' %}
-{% assign option2 = product.selected_or_first_available_variant.option2 | string %}
-{% assign is_option_in_meterOptions = false %}
-
-{% for meter in meterOptions %}
-  {% if meter == option2 %}
-    {% assign is_option_in_meterOptions = true %}
-  {% endif %}
-{% endfor %}
-
 {{ 'quantity-popover.css' | asset_url | stylesheet_tag }}
 {{ 'component-card.css' | asset_url | stylesheet_tag }}
 
@@ -291,8 +281,8 @@
                           <quantity-popover>
                             <div class="cart-item__quantity-wrapper quantity-popover-wrapper">
                               <div class="quantity-popover-container{% if has_qty_rules or has_vol_pricing %} quantity-popover-container--hover{% endif %}">
-                                {% if is_option_in_meterOptions %}
-                                  Länge in cm
+                                {% if item.options_with_values.last === 144 %}
+                                  Länge in cm {item.options_with_values.last}
                                 {% endif %}
                                 <quantity-input class="quantity cart-quantity">
                                   <button class="quantity__button" name="minus" type="button">
