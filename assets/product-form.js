@@ -87,6 +87,9 @@ if (!customElements.get('product-form')) {
               quickAddModal.hide(true);
             } else {
               this.cart.renderContents(response);
+              if (this.cart.tagName === 'CART-DRAWER') {
+                this.cart.setAttribute('open', '');
+              }
             }
           })
           .catch((e) => {
