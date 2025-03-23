@@ -290,13 +290,7 @@
                                     {% assign is_option_in_meterOptions = true %}
                                   {% endif %}
                                 {% endfor %}
-                                <div>
-                                  {% if is_option_in_meterOptions %}
-                                    Länge in cm
-                                  {% else %}
-                                    Anzahl
-                                  {% endif %}
-                                </div>
+
                                 <div>
                                   <quantity-input class="quantity cart-quantity">
                                     <button class="quantity__button" name="minus" type="button">
@@ -355,6 +349,13 @@
                                       </span>
                                     </button>
                                   </quantity-input>
+                                </div>
+                                <div>
+                                  {% if is_option_in_meterOptions %}
+                                    Länge in cm
+                                  {% else %}
+                                    Anzahl
+                                  {% endif %}
                                 </div>
                               </div>
                               <cart-remove-button
