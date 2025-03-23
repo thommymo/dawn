@@ -350,13 +350,6 @@
                                     </button>
                                   </quantity-input>
                                 </div>
-                                <div>
-                                  {% if is_option_in_meterOptions %}
-                                    Länge in cm
-                                  {% else %}
-                                    Anzahl
-                                  {% endif %}
-                                </div>
                               </div>
                               <cart-remove-button
                                 id="CartDrawer-Remove-{{ item.index | plus: 1 }}"
@@ -373,6 +366,13 @@
                                   </span>
                                 </button>
                               </cart-remove-button>
+                            </div>
+                            <div>
+                              {% if is_option_in_meterOptions %}
+                                Länge in cm
+                              {% else %}
+                                Anzahl
+                              {% endif %}
                             </div>
                             {%- if has_qty_rules or has_vol_pricing -%}
                               <button
