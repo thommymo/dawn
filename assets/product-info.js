@@ -323,10 +323,10 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
-        if (selection?.option2 > 100 || !selection) {
-          min = 50;
-          step = 10;
-        }
+        // if (selection?.option2 > 100 || !selection) {
+        //   min = 50;
+        //   step = 10;
+        // }
 
         const max = data.max === null ? data.max : data.max - data.cartQuantity;
         if (max !== null) min = Math.min(min, max);
