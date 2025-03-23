@@ -323,7 +323,7 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
-        console.log(selection?.option2, !selection);
+        console.log(selection?.option2, !selection, data.min, data.cartQuantity);
 
         if (selection?.option2 > 100 || !selection) {
           min = 50;
