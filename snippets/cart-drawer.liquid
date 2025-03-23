@@ -281,8 +281,8 @@
                           <quantity-popover>
                             <div class="cart-item__quantity-wrapper quantity-popover-wrapper">
                               <div class="quantity-popover-container{% if has_qty_rules or has_vol_pricing %} quantity-popover-container--hover{% endif %}">
-                                {% if item.options_with_values.last === 144 %}
-                                  Länge in cm {item.options_with_values.last}
+                                {% if item.options_with_values.last == 144 %}
+                                  Länge in cm
                                 {% endif %}
                                 <quantity-input class="quantity cart-quantity">
                                   <button class="quantity__button" name="minus" type="button">
