@@ -87,7 +87,7 @@ if (!customElements.get('product-form')) {
               quickAddModal.hide(true);
             } else {
               this.cart.renderContents(response);
-              console.log('cart', this.cart);
+              console.log('cart');
             }
           })
           .catch((e) => {
