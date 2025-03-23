@@ -43,7 +43,7 @@
         "image": "shopify://shop_images/NERI_portrait_miradurrer.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
