@@ -310,8 +310,8 @@ if (!customElements.get('product-info')) {
         if (modalContent && newModalContent) modalContent.innerHTML = newModalContent.innerHTML;
       }
 
-      setQuantityBoundries() {
-        // const selection = html ? this.getSelectedVariant(html) : null;
+      setQuantityBoundries(html) {
+        const selection = html ? this.getSelectedVariant(html) : null;
 
         const data = {
           cartQuantity: this.quantityInput.dataset.cartQuantity ? parseInt(this.quantityInput.dataset.cartQuantity) : 0,
@@ -323,10 +323,10 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
-        // if (selection?.option2 > 100 || !selection) {
-        //   min = 50;
-        //   step = 10;
-        // }
+        if (selection?.option2 > 100 || !selection) {
+          min = 50;
+          step = 10;
+        }
 
         const max = data.max === null ? data.max : data.max - data.cartQuantity;
         if (max !== null) min = Math.min(min, max);
@@ -348,7 +348,7 @@ if (!customElements.get('product-info')) {
         const currentVariantId = this.productForm?.variantIdInput?.value;
         if (!currentVariantId) return;
 
-        this.querySelector('.quantity__rules-cart .loading__spinner').classList.remove('hidden');
+        this.querySelector('.quantity__rules-cart .loading__spinner')?.classList?.remove('hidden');
         fetch(`${this.dataset.url}?variant=${currentVariantId}&section_id=${this.dataset.section}`)
           .then((response) => response.text())
           .then((responseText) => {
@@ -360,8 +360,11 @@ if (!customElements.get('product-info')) {
       }
 
       updateQuantityRules(sectionId, html) {
-        if (!this.quantityInput) return;
-        this.setQuantityBoundries();
+        if (!this.quantityInput) {
+          return;
+        }
+
+        this.setQuantityBoundries(html);
 
         const quantityFormUpdated = html.getElementById(`Quantity-Form-${sectionId}`);
         const selectors = ['.quantity__input', '.quantity__rules', '.quantity__label'];
