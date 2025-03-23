@@ -323,7 +323,7 @@ if (!customElements.get('product-info')) {
         let min = data.min;
         let step = data.step;
 
-        if (['110', '150'].includes(selection?.option2) || !selection) {
+        if (selection?.option2 > 100 || !selection) {
           min = 50;
           step = 10;
         }
