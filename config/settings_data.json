@@ -136,13 +136,6 @@
       }
     },
     "content_for_index": [],
-    "blocks": {
-      "2532827098368908073": {
-        "type": "shopify://apps/snap-preorder-backorder/blocks/presale-backorder/ff20ec89-389a-4a34-9c65-23e040cb765c",
-        "disabled": false,
-        "settings": {}
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
