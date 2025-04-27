@@ -23,8 +23,8 @@
 
   assign compare_at_price = target.compare_at_price
 -%}
-{% comment %} 
-  THE NEXT 3 LINES CHANGED FROM 
+{% comment %}
+  THE NEXT 3 LINES CHANGED FROM
   "assign price = target.price | default: 1999
   assign price_min = product.price_min
   assign price_max = product.price_max"
@@ -32,12 +32,18 @@
   "assign price = target.price | times: 100
   assign price_min = product.price_min | times: 100
   assign price_max = product.price_max | times: 100"
-  to recalculate the price from cm to m price 
+  to recalculate the price from cm to m price
 {% endcomment %}
 {%- liquid
-  assign price = target.price | times: 100
-  assign price_min = product.price_min | times: 100
-  assign price_max = product.price_max | times: 100
+  assign multiplier = 1
+
+  if product.option2 contains '110' or product.option2 contains '144'
+    assign multiplier = 100
+  endif
+
+  assign price = target.price | times: multiplier
+  assign price_min = product.price_min | times: multiplier
+  assign price_max = product.price_max | times: multiplier
   assign available = target.available | default: false
   assign money_price = price | money
   assign money_price_min = price_min | money
@@ -51,7 +57,6 @@
   if target == product and product.price_varies
     assign money_price = 'products.product.price.from_price_html' | t: price: money_price
   endif
-   
 -%}
 
 {%- unless target == null and placeholder == null -%}
