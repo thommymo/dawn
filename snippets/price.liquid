@@ -29,7 +29,14 @@
   assign price_min = product.price_min
   assign price_max = product.price_max"
   TO
-  "assign price = target.price | times: 100
+  "
+  assign multiplier = 1
+
+  if product.selected_or_first_available_variant.option2 contains '110' or product.selected_or_first_available_variant.option2 contains '144'
+    assign multiplier = 100
+  endif
+
+  assign price = target.price | times: 100
   assign price_min = product.price_min | times: 100
   assign price_max = product.price_max | times: 100"
   to recalculate the price from cm to m price
