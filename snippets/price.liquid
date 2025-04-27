@@ -37,7 +37,7 @@
 {%- liquid
   assign multiplier = 1
 
-  if product.option2 contains '110' or product.option2 contains '144'
+  if product.selected_or_first_available_variant.option2 contains '110' or product.selected_or_first_available_variant.option2 contains '144'
     assign multiplier = 100
   endif
 
