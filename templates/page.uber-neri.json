@@ -58,6 +58,55 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_ckHXRt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QTBRcb": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_fUykFH": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_7wdWXA": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QTBRcb",
+        "text_fUykFH",
+        "buttons_7wdWXA"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Flachsfeld_1187.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "collage_wVRRm6": {
       "type": "collage",
       "blocks": {
@@ -96,6 +145,45 @@
         "padding_bottom": 36
       }
     },
+    "collage_fxbkwy": {
+      "type": "collage",
+      "blocks": {
+        "image_iQi8Dn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neri_Flachs_1739.jpg"
+          }
+        },
+        "image_zQiL4B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1691.jpg"
+          }
+        },
+        "image_LHaLyr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flach_Rushes_DZX1725.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_iQi8Dn",
+        "image_zQiL4B",
+        "image_LHaLyr"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage_RRmDHb": {
       "type": "collage",
       "blocks": {
@@ -103,6 +191,12 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Flach_Rushes_DZX1817.jpg"
+          }
+        },
+        "image_73GBVE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neri_Flachs_1529.jpg"
           }
         },
         "image_XYywQz": {
@@ -114,6 +208,7 @@
       },
       "block_order": [
         "image_NjPmiw",
+        "image_73GBVE",
         "image_XYywQz"
       ],
       "settings": {
@@ -293,7 +388,9 @@
   "order": [
     "main",
     "rich_text_TnRnGN",
+    "image_banner_ckHXRt",
     "collage_wVRRm6",
+    "collage_fxbkwy",
     "collage_RRmDHb",
     "collage_fkfjLG",
     "collage_zVyazn",
