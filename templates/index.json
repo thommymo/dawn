@@ -364,6 +364,17 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "row_RnUFtd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/melinesager_0166.jpg",
+            "caption": "Kollaboration",
+            "heading": "Meline Sager",
+            "text": "<p>Leinenstoff als Teil der Bachelorarbeit von Meline Sager, BA Objektdesign</p>",
+            "button_label": "Projekt",
+            "button_link": "https://www.hslu.ch/de-ch/design-film-kunst/studium/bachelor/objektdesign/bachelor-arbeiten/bachelor-arbeiten-2025/meline-maria-sager/"
+          }
         }
       },
       "block_order": [
@@ -373,7 +384,8 @@
         "row_zBUtJE",
         "row_BfqkX9",
         "row_Qe6PFj",
-        "row_Fzh9Kj"
+        "row_Fzh9Kj",
+        "row_RnUFtd"
       ],
       "settings": {
         "image_height": "adapt",
