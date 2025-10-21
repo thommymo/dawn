@@ -36,6 +36,31 @@
         "enable_language_selector": false
       }
     },
+    "announcement_bar_tgQX78": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_WfEMza": {
+          "type": "announcement",
+          "settings": {
+            "text": "Atelier Brun & neri: Atelier Event am Donnerstag, 30.10.25 /// Obacht in Luzern am 07. und 08.11.25 bei NEUSTAHL",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WfEMza"
+      ],
+      "name": "t:sections.announcement-bar.presets.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -58,6 +83,7 @@
   },
   "order": [
     "announcement-bar",
+    "announcement_bar_tgQX78",
     "header"
   ]
 }
