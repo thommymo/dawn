@@ -42,13 +42,22 @@
             "heading": "Info",
             "subtext": "<p><a href=\"/pages/impressum\" title=\"Impressum\">Impressum</a><br/><a href=\"/pages/datenschutz\" title=\"Datenschutz\">Datenschutz<br/></a><a href=\"/pages/agb\" title=\"AGB\">AGB</a></p>"
           }
+        },
+        "image_F8w8hg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DPS_E25_Label_Top10_Neon.jpg",
+            "image_width": 100,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
         "text_bCRwah",
-        "footer-2"
+        "footer-2",
+        "image_F8w8hg"
       ],
       "settings": {
         "color_scheme": "scheme-1",
