@@ -375,6 +375,16 @@
             "button_label": "Projekt",
             "button_link": "https://www.hslu.ch/de-ch/design-film-kunst/studium/bachelor/objektdesign/bachelor-arbeiten/bachelor-arbeiten-2025/meline-maria-sager/"
           }
+        },
+        "row_YUGK9c": {
+          "type": "row",
+          "settings": {
+            "caption": "kollaboration",
+            "heading": "Atelier Brun",
+            "text": "<p>Kissen, Rollo und Vorhang</p>",
+            "button_label": "Atelier Brun",
+            "button_link": "https://www.instagram.com/atelierbrunsursee"
+          }
         }
       },
       "block_order": [
@@ -385,7 +395,8 @@
         "row_BfqkX9",
         "row_Qe6PFj",
         "row_Fzh9Kj",
-        "row_RnUFtd"
+        "row_RnUFtd",
+        "row_YUGK9c"
       ],
       "settings": {
         "image_height": "adapt",
